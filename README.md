@@ -1,31 +1,55 @@
-> Hey There! 👋 I am **Irfan Haider**
+<h1 align="center">Hey There! 👋 I'm <span style="color:#007acc">Irfan Haider</span></h1>
+
+<p align="center">
+  💻 Passionate <b>Front-End / React.js Developer</b> • 🚀 MERN Stack Enthusiast • 🌍 Lifelong Learner  
+</p>
 
 ---
 
 ## 👨🏻‍💻 About Me  
-🌐 Passionate **Front-End / ReactJS Developer** focused on building modern, responsive, and dynamic web applications.  
-🧠 Interested in **MERN Stack Development** and continuously exploring new web technologies.  
-🤝 Looking to collaborate with other developers worldwide on creative and open-source projects.  
-🚀 Currently learning **Next.js**, **TypeScript**, and **Node.js** to strengthen my full-stack skills.  
-🎯 Goal: Become a highly skilled full-stack developer and contribute to open-source projects.  
-📬 How to reach me: Let’s connect below!  
+
+✨ I'm a self-motivated and creative developer who loves building fast, modern, and responsive web applications.  
+💡 I focus on writing clean, efficient, and maintainable code to create amazing user experiences.  
+🌱 Currently learning and exploring **Next.js**, **TypeScript**, and **Node.js** to level up my full-stack skills.  
+🤝 Open to collaboration on exciting **React.js / MERN** projects and open-source contributions.  
+🎯 My goal is to become a **versatile full-stack developer** and deliver high-quality digital solutions.  
+☕ When I'm not coding, you'll find me exploring new UI trends, watching dev content, or sketching creative ideas.
 
 ---
 
-## 🧰 Technical Skills  
+## 🧰 Technical Expertise  
 
 ### ⚛️ Front-End Development  
-💻 HTML5 • CSS3 • JavaScript (ES6+) • ReactJS • jQuery  
-🎨 Tailwind CSS • Bootstrap • Responsive UI Design  
+- **Languages & Frameworks:** HTML5 • CSS3 • JavaScript (ES6+) • React.js • Next.js  
+- **Styling & UI:** Tailwind CSS • Bootstrap • Responsive Design • Framer Motion  
+
+### 🧩 Back-End & Database  
+- **Technologies:** Node.js • Express.js • MongoDB • REST APIs  
 
 ### 🧠 Tools & Platforms  
-🛠️ Git • GitHub • Visual Studio Code • Figma • Canva  
+- Git & GitHub • Visual Studio Code • Figma • Canva • Vercel • Netlify  
+
+### 💬 Soft Skills  
+- Problem Solving • Collaboration • Communication • Creative Thinking  
 
 ---
 
-## 🤝 Let's Get Connected  
+## 📊 GitHub Stats  
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irfanhaider&show_icons=true&theme=react&hide_border=true" height="150" alt="Irfan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanhaider&theme=react&hide_border=true" height="150" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanhaider&layout=compact&theme=react&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Let's Connect  
+
+<p align="center">
   <a href="https://www.linkedin.com/in/irfan-haider-1179a5361/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Irfan%20Haider-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
@@ -36,9 +60,17 @@
 
 ---
 
-> Check out my highlighted projects below 👇  
+## 🌟 Featured Projects  
+
+🚀 [**DevPortfolio**](#) — A modern personal portfolio built with Next.js, Tailwind CSS, and Framer Motion.  
+💡 [**Task Manager App**](#) — A simple and efficient productivity app using React & Firebase.  
+🧩 [**MERN Blog Platform**](#) — Full-stack blog web app with JWT authentication and MongoDB integration.  
+
 ---
 
-⭐ **Thanks for visiting!**  
+⭐ **Thanks for visiting my profile!**  
+💬 Let’s collaborate, build, and grow together.
 
-[🔼 Back to top](#hey-there--i-am-irfan-haider)
+<p align="center">
+  <a href="#readme">🔼 Back to top</a>
+</p>

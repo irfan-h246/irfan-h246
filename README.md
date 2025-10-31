@@ -1,11 +1,14 @@
+<a name="top"></a>
+
 <!-- Intro Start -->
 <h1 align="center">
   <samp>&gt; Hey There!, I am
     <b><a href="https://www.linkedin.com/in/irfan-haider-1179a5361/" target="_blank">Irfan Haider</a></b>
-    <img src="wave.gif" width="30">
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
   </samp>
 </h1>
 <!-- Intro End -->
+
 
 <br>
 
@@ -71,7 +74,8 @@
 <br>
 <!-- Snake Start -->
 <div>
-<img src="./github-contribution-grid-snake.svg">️
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+️
 </div>
 <!-- Connection End -->
 
@@ -81,4 +85,9 @@
 >  check out my pinned repositories 👇
 ```
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="Back to top" /></a></p>
+<p align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="Back to top" />
+  </a>
+</p>
+
